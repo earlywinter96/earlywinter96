@@ -1,7 +1,5 @@
 <div align="center">
 
-  <img src="assets/hemant-profile-intro.png" alt="Hemant Solanki turning data into decisions and building AI products" width="100%" />
-
   <h1>Hemant Solanki</h1>
 
   <p>
@@ -23,6 +21,12 @@
 
   <h3>Data Today, Impact Tomorrow</h3>
 
+</div>
+
+---
+
+<div align="center">
+  <img src="assets/hemant-profile-intro.png" alt="Hemant Solanki turning data into decisions and building AI products" width="100%" />
 </div>
 
 ---
