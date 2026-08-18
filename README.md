@@ -145,12 +145,36 @@ Repeat.
 
 ### GitHub Snapshot
 
-<div align="center">
+<table>
+  <tr>
+    <td><strong>Public Repositories</strong></td>
+    <td>14 and growing</td>
+  </tr>
+  <tr>
+    <td><strong>Main Build Zone</strong></td>
+    <td>AI apps, data tools, document intelligence, automation, and portfolio experiments</td>
+  </tr>
+  <tr>
+    <td><strong>Most Used Languages</strong></td>
+    <td>Python, HTML, CSS, JavaScript, SQL</td>
+  </tr>
+  <tr>
+    <td><strong>Recent Focus</strong></td>
+    <td>LipiTranslate, DocParser AI, AI Resume Job Analyzer, NIA, StackIt, RentEase</td>
+  </tr>
+</table>
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=earlywinter96&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Hemant Solanki GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=earlywinter96&layout=compact&theme=github_dark&hide_border=true" alt="Hemant Solanki top languages" />
-
-</div>
+<p align="center">
+  <a href="https://github.com/earlywinter96?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Hemant Solanki repositories" />
+  </a>
+  <a href="https://github.com/earlywinter96/pdf-translator-ai">
+    <img src="https://img.shields.io/badge/Featured-LipiTranslate-2E7D32?style=for-the-badge" alt="Featured project LipiTranslate" />
+  </a>
+  <a href="https://github.com/earlywinter96/docparser-ai">
+    <img src="https://img.shields.io/badge/Featured-DocParser%20AI-1565C0?style=for-the-badge" alt="Featured project DocParser AI" />
+  </a>
+</p>
 
 ---
 
