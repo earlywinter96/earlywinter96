@@ -1,6 +1,12 @@
 <div align="center">
 
-  <h1>Hemant Solanki</h1>
+  <a href="https://github.com/earlywinter96">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&pause=1200&color=00D9FF&center=true&vCenter=true&width=720&lines=%3C+Hemant+Solanki+%2F%3E;AI+%26+Data+Builder;Turning+Data+Into+Decisions" alt="Hemant Solanki - AI and Data Builder" />
+  </a>
+
+  <p>
+    <img src="https://img.shields.io/badge/HEMANT_SOLANKI-Data%20%7C%20AI%20%7C%20Automation-0B1220?style=for-the-badge&labelColor=111827&color=00D9FF" alt="Hemant Solanki highlighted name badge" />
+  </p>
 
   <p>
     <strong>Assistant Manager - AI & Data at Reliance Group</strong><br />
