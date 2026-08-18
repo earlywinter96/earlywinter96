@@ -10,6 +10,7 @@
 
   <p>
     <strong>Assistant Manager - AI & Data at Reliance Group</strong><br />
+    Founder of <a href="https://www.lipitranslate.in/">LipiTranslate.in</a><br />
     Agentic AI Builder | GenAI | Automation | Decision Intelligence
   </p>
 
